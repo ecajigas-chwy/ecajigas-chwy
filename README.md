@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ecajigas-chwy
-- 👀 I’m interested in coffee, coffee brewing, coffee roasting, coffee farming, puppies, compliance, automation, and 3Dprints.
-- 🌱 I’m currently learning 3d modeling, hydrophonic planting.
-- 💞️ I’m looking to collaborate on automation
-
+- 👀 I’m interested in coffee, coffee brewing, coffee roasting, coffee farming, puppies, video games, games, compliance, automation, and 3Dprints.
+- 🌱 I’m currently learning 3d modeling.
+- 💞️ I’m looking to collaborate on office automation.
 
 
 <!---
